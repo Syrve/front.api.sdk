@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xml:space="preserve">
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter</value>
+  </resheader>
+  <data name="TotalSumText">
+    <value>სულ: </value>
+  </data>
+  <data name="DiscountText">
+    <value>ფასდაკლება: </value>
+  </data>
+  <data name="IncreaseText">
+    <value>გადასახადი: </value>
+  </data>
+  <data name="OrderContent">
+    <value>შეკვეთის შემცველობა:</value>
+  </data>
+  <data name="WindowTitle">
+    <value>მყიდველის ფანჯარა</value>
+  </data>
+  <data name="ChangeSumText">
+    <value>ხურდა:  </value>
+  </data>
+  <data name="WelcomeTextDefault">
+    <value>კეთილი იყოს თქვენი მობრძანება!</value>
+  </data>
+  <data name="FilesNotFoundErrorText">
+    <value>მითითებული მიმართულებით არ მოიძებნა არც ერთი ვიდეოფაილი, რომლის ნახვაც შესაძლებელია. დარწმუნდით, რომ ფაილები არსებობს და ახლიდან ჩართეთ Syrve POST -ი.</value>
+  </data>
+  <data name="ProductName">
+    <value>სახელწოდება</value>
+  </data>
+  <data name="Amount">
+    <value>რაოდენობა</value>
+  </data>
+  <data name="Price">
+    <value>ღირებულება</value>
+  </data>
+  <data name="OrderSum">
+    <value>შეკვეთის თანხა:</value>
+  </data>
+  <data name="PluginName">
+    <value>მყიდველის ეკრანი</value>
+  </data>
+  <data name="ConfigOperations">
+    <value>ოპერაციები</value>
+  </data>
+  <data name="ConfigValidareWindow">
+    <value>ფანჯრის აღდგენა</value>
+  </data>
+  <data name="ConfigRestartPlayer">
+    <value>გადატვირთეთ ვიდეო</value>
+  </data>
+  <data name="CantFindSecondScreenError">
+    <value>სისტემას არ აქვს მეორე მონიტორი.</value>
+  </data>
+  <data name="InfoMessageTitle">
+    <value>ინფორმაცია</value>
+  </data>
+  <data name="CusromerScreenShowSuccess">
+    <value>მყიდველის ეკრანი იყო მეორედ ინაციალიზირებული, შეამოწმეთ შედეგი.</value>
+  </data>
+</root>

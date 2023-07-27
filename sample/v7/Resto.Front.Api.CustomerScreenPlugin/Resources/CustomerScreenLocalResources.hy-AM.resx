@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xml:space="preserve">
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter</value>
+  </resheader>
+  <data name="TotalSumText">
+    <value>Ընդամենը: </value>
+  </data>
+  <data name="DiscountText">
+    <value>Զեղչ: </value>
+  </data>
+  <data name="IncreaseText">
+    <value>Հավելավճար: </value>
+  </data>
+  <data name="OrderContent">
+    <value>Պատվիրեք բովանդակություն:</value>
+  </data>
+  <data name="WindowTitle">
+    <value>Գնորդի պատուհան</value>
+  </data>
+  <data name="ChangeSumText">
+    <value>Փոփոխություն: </value>
+  </data>
+  <data name="WelcomeTextDefault">
+    <value>Բարի գալուստ</value>
+  </data>
+  <data name="FilesNotFoundErrorText">
+    <value>Նշված ուղու վրա համապատասխան վիդեո ֆայլեր չեն գտնվել: Համոզվեք, որ ֆայլերը կան և վերագործարկեք Syrve POST-ը:</value>
+  </data>
+  <data name="ProductName">
+    <value>Անվանում</value>
+  </data>
+  <data name="Amount">
+    <value>քանակ</value>
+  </data>
+  <data name="Price">
+    <value>գինը</value>
+  </data>
+  <data name="OrderSum">
+    <value>Պատվիրել գինը</value>
+  </data>
+  <data name="PluginName">
+    <value>Գնորդի էկրան</value>
+  </data>
+  <data name="ConfigOperations">
+    <value>Գործողություններ</value>
+  </data>
+  <data name="ConfigValidareWindow">
+    <value>Վերականգնել պատուհանը</value>
+  </data>
+  <data name="ConfigRestartPlayer">
+    <value>Վերագործարկեք տեսանյութը</value>
+  </data>
+  <data name="CantFindSecondScreenError">
+    <value>Համակարգը երկրորդ մոնիտոր չունի։</value>
+  </data>
+  <data name="InfoMessageTitle">
+    <value>Տեղեկություն</value>
+  </data>
+  <data name="CusromerScreenShowSuccess">
+    <value>Հաճախորդի էկրանը վերսկսվել է, ստուգեք արդյունքը:</value>
+  </data>
+</root>
