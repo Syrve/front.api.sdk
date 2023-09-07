@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Syrve\\iikoRMS_Italy_8.5.7009.0\\iikoFront\\Resto.Front.Api.Host.exe",
+      "commandLineArgs": "/a=\"C:\\Users\\Vladyslav Berman\\source\\repos\\Syrve\\GitHubDocs\\front.api.sdk\\sample\\v8preview5\\Resto.Front.Api.SamplePaymentPlugin\\bin\\Debug\\net472\\Resto.Front.Api.SamplePaymentPlugin.dll\" \r\n/c=Resto.Front.Api.SamplePaymentPlugin.SamplePaymentPlugin\r\n/m=0021005918\r\n/l=\"C:\\Users\\Vladyslav Berman\\source\\repos\\Syrve\\GitHubDocs\\front.api.sdk\\sample\\v8preview5\\Resto.Front.Api.SamplePaymentPlugin\\bin\\Debug\\net472\\SamplePaymentPlugin.log\""
+    }
+  }
+}
