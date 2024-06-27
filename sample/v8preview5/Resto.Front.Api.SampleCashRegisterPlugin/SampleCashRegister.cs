@@ -13,7 +13,7 @@ using Resto.Front.Api.UI;
 
 namespace Resto.Front.Api.SampleCashRegisterPlugin
 {
-    internal sealed class SampleCashRegister : Devices.ICashRegister
+    internal sealed class SampleCashRegister : ICashRegister
     {
         private readonly Guid deviceId;
         [NotNull]
@@ -414,6 +414,16 @@ namespace Resto.Front.Api.SampleCashRegisterPlugin
                 ZeroCashOnClose = true,
                 IsBillTaskSupported = false,
             };
+        }
+        /// <summary>
+        /// Check device status
+        /// </summary>
+        /// <param name="statusFields">List of requested fields</param>
+        /// <returns>Returns instances <see cref="CashRegisterStatus"/>, with the requested fields filled in, or null if the value is not filled in
+        /// </returns>
+        public CashRegisterStatus GetCashRegisterStatus(GetCashRegisterStatusTask getCashRegisterStatusTask)
+        {
+            return new CashRegisterStatus();
         }
     }
 }
