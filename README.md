@@ -21,11 +21,13 @@ Note that debugging and running plugins requires a license, so you'll need to re
 
 ## Links:
 
-[Code reference API V6 (obsolete).](https://syrve.github.io/front.api.sdk/v6/)
+[Code reference API V6 (obsolete).](https://syrve.github.io/front.api.sdk/v6/)  (not supported from 8.8).
 
-[Code reference API V7 (current).](https://syrve.github.io/front.api.sdk/v7/)
+[Code reference API V7 (obsolete).](https://syrve.github.io/front.api.sdk/v7/)
 
-[Code reference API V8 (preview).](https://syrve.github.io/front.api.sdk/v8/)
+[Code reference API V8 (current).](https://syrve.github.io/front.api.sdk/v8/)
+
+[Code reference API V9 (preview).](https://syrve.github.io/front.api.sdk/v9/)
 
 [Help topics.](https://syrve.github.io/front.api.doc/)
 
